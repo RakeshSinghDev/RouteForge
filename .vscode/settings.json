@@ -1,0 +1,6 @@
+{
+    "code-runner.cwd": "$workspaceRoot",
+    "code-runner.executorMap": {
+        "cpp": "g++ -Iinclude src/main.cpp -o main.exe && .\\main.exe"
+    }
+}
